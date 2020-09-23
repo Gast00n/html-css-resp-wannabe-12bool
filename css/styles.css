@@ -1,0 +1,11 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+.test-box {
+  text-align: center;
+  padding:10px;
+  background-color: pink;
+  border: 1px #f3b6b6 solid;
+}
